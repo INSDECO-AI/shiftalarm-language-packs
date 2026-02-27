@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "code": "es",
+    "version": 1,
+    "min_app_version": 1
+  },
+  "strings": {
+    "test_system": "Idioma del sistema",
+    "download_language_pack": "Descargar paquete de idioma",
+    "app_name_dynamic": "ShiftAlarm Español"
+  }
+}
