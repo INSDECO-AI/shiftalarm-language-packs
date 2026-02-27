@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "language_tag": "de",
+    "version": 3,
+    "min_app_version": 1,
+    "rtl": false,
+    "created_at": "2026-02-27"
+  },
+  "strings": {
+    "app_name_dynamic": "ShiftAlarm Deutsch",
+    "test_system": "Systemsprache",
+    "download_language_pack": "Sprachpaket herunterladen"
+  }
+}
