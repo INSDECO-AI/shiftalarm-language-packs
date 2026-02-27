@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "code": "fr",
+    "version": 1,
+    "min_app_version": 1
+  },
+  "strings": {
+    "test_system": "Langue du système",
+    "download_language_pack": "Télécharger le pack de langue",
+    "app_name_dynamic": "ShiftAlarm Français"
+	"test_system": "FR TEST 123"
+  }
+}
