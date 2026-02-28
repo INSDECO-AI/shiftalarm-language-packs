@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "code": "de",
+    "version": 5,
+    "min_app_version": 1,
+    "rtl": false
+  },
+  "strings": {
+    "app_name_dynamic": "ShiftAlarm Deutsch",
+
+    "shifts_count": {
+      "one": "{count} Schicht",
+      "other": "{count} Schichten"
+    },
+
+    "shifts_in_month": "{count} Schichten im {month}"
+  }
+}
