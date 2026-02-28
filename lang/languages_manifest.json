@@ -19,7 +19,7 @@
     },
     {
       "code": "pl",
-      "version": 2,
+      "version": 3,
       "rtl": false,
       "enabled": true,
       "url": "shiftalarm_lang_pl.json",
@@ -36,3 +36,4 @@
   ]
 
 }
+
