@@ -19,11 +19,11 @@
     },
     {
       "code": "pl",
-      "version": 1,
+      "version": 2,
       "rtl": false,
       "enabled": true,
       "url": "shiftalarm_lang_pl.json",
-      "sha256": "0DAB28E519233FE0F4220BDB32059141502B2F9C30F94178EA61D73240B62462"
+      "sha256": "5321D138D4552B37E47830450A0F02D849D2B8C5CC86D0E056718C7BF1D3FE9F"
     },
     {
       "code": "ar",
@@ -34,4 +34,5 @@
       "sha256": "C873E1CBC51C4705EEC50944D2AC5F02BF0EA191EFA49B528CA75B4B73089A71"
     }
   ]
+
 }
