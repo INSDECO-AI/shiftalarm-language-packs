@@ -23,7 +23,7 @@
       "rtl": false,
       "enabled": true,
       "url": "shiftalarm_lang_pl.json",
-      "sha256": "5321D138D4552B37E47830450A0F02D849D2B8C5CC86D0E056718C7BF1D3FE9F"
+      "sha256": "265FC37320B4AE0EE9CED2AE90386E0110A6BD8A2A8C3F5CE74FD65DF091C124"
     },
     {
       "code": "ar",
@@ -36,4 +36,5 @@
   ]
 
 }
+
 
