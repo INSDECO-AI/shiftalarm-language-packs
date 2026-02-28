@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "code": "pl",
+    "version": 5,
+    "min_app_version": 1,
+    "rtl": false,
+    "created_at": "2026-02-28"
+  },
+  "strings": {
+    "app_name_dynamic": "ShiftAlarm",
+    "system_language_label": "Język systemowy: {language}",
+    "calendar_title": "Kalendarz"
+  }
+}
