@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "code": "ar",
+    "version": 1,
+    "min_app_version": 1,
+    "rtl": true,
+    "created_at": "2026-02-27"
+  },
+  "strings": {
+    "app_name_dynamic": "ShiftAlarm العربية",
+
+    "shifts_count": {
+      "zero": "لا نوبات",
+      "one": "نوبة واحدة",
+      "two": "نوبتان",
+      "few": "{count} نوبات",
+      "many": "{count} نوبة",
+      "other": "{count} نوبة"
+    },
+
+    "shifts_in_month": "{count} نوبات في {month}"
+  }
+}
