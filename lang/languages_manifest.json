@@ -1,0 +1,37 @@
+{
+  "min_supported_app_version": 1,
+  "languages": [
+    {
+      "code": "en",
+      "version": 25,
+      "rtl": false,
+      "enabled": true,
+      "url": "shiftalarm_lang_en.json",
+      "sha256": "3B7BF1F98934F3D6BAF09C31C0FF5EB4312020C39B75AB659EB428C3F1A9566F"
+    },
+    {
+      "code": "ru",
+      "version": 25,
+      "rtl": false,
+      "enabled": true,
+      "url": "shiftalarm_lang_ru.json",
+      "sha256": "D2C3E5956B0D603BE8EA3A27435FA1E7B8E7D47648AB11D81E4B799C433FF8BF"
+    },
+    {
+      "code": "pl",
+      "version": 25,
+      "rtl": false,
+      "enabled": true,
+      "url": "shiftalarm_lang_pl.json",
+      "sha256": "31ACB75C0766D4F6534FEED025924990506871E8DE671FDA173BE7A2AFAA58FF"
+    },
+    {
+      "code": "ar",
+      "version": 1,
+      "rtl": true,
+      "enabled": true,
+      "url": "shiftalarm_lang_ar.json",
+      "sha256": "C873E1CBC51C4705EEC50944D2AC5F02BF0EA191EFA49B528CA75B4B73089A71"
+    }
+  ]
+}
