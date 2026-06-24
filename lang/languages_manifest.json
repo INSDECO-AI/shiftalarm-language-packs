@@ -3,27 +3,27 @@
   "languages": [
     {
       "code": "en",
-      "version": 25,
+      "version": 130,
       "rtl": false,
       "enabled": true,
       "url": "shiftalarm_lang_en.json",
-      "sha256": "3B7BF1F98934F3D6BAF09C31C0FF5EB4312020C39B75AB659EB428C3F1A9566F"
+      "sha256": "9FBFC705AB7C69F43FA153768056021178C7D53D6CDEC99B0E20C70324579663"
     },
     {
       "code": "ru",
-      "version": 25,
+      "version": 130,
       "rtl": false,
       "enabled": true,
       "url": "shiftalarm_lang_ru.json",
-      "sha256": "D2C3E5956B0D603BE8EA3A27435FA1E7B8E7D47648AB11D81E4B799C433FF8BF"
+      "sha256": "3ACF80D84EDA0B5ACD05917EED2E55C613CE5AFE2225969C3D57DE07792DF790"
     },
     {
       "code": "pl",
-      "version": 25,
+      "version": 130,
       "rtl": false,
       "enabled": true,
       "url": "shiftalarm_lang_pl.json",
-      "sha256": "31ACB75C0766D4F6534FEED025924990506871E8DE671FDA173BE7A2AFAA58FF"
+      "sha256": "B254DB427EDCE79198027C652D44024E76C76D7619CA9016212135357358354F"
     },
     {
       "code": "ar",
