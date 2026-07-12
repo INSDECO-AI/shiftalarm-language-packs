@@ -27,11 +27,15 @@
     },
     {
       "code": "ar",
-      "version": 1,
+      "version": 149,
       "rtl": true,
       "enabled": true,
       "url": "shiftalarm_lang_ar.json",
-      "sha256": "C873E1CBC51C4705EEC50944D2AC5F02BF0EA191EFA49B528CA75B4B73089A71"
+      "sha256": "C8D09E5732A0C490802588BB4C61943E8BB749CC2351AFC869896E44A7BF0A7C",
+      "size": 5826,
+      "native_name": "العربية",
+      "english_name": "Arabic",
+      "min_app_version": 1
     }
   ]
 }
